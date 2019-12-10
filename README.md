@@ -1,5 +1,5 @@
 # Virus Shortcut Killer
-Une mini-application avec java qui supprime les raccourcis 
+Une mini-application avec java qui supprime les raccourcis (virus le plus connu) et réparre le disque
 
 ### Pré-requis
 JavaRE (Environnement d'exécution Java)
